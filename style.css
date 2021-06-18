@@ -9,13 +9,14 @@
 } 
 nav{
   display: flex;
-  height: 80px;
+  height: 70px;
   width: 100%;
   background:  #28B6DE;
   align-items: center;
   justify-content: space-between;
-  padding: 0 0 0 100px;
+  padding: 0px 0 0 100px;
   flex-wrap: wrap;
+  position: sticky;
 }
 nav .logo{
   color:white;
